@@ -1,0 +1,3 @@
+This program implements the ability to create any dynamic array, load it and save it.
+The array can be sorted by various types of sorting: fast, bubble, monkey, gnome, comb.
+Search for the desired array element, as well as removing duplicates.
