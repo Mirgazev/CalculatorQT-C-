@@ -1,0 +1,9 @@
+A program that creates an array of data in a table
+There are buttons that perform the function:
+- The sum of odd, the sum of even
+- Number of positive elements <100
+- The product of positive elements
+- Number of negative elements in the array
+- Counting elements with even indexes
+- Counting elements with odd indexes
+- The most common value is
